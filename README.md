@@ -24,3 +24,6 @@ However There's things pointed you'll need to add on your own such as ACPI. It w
 - [ ] Coffe Lake
 - [ ] Ice Lake
 
+**AMD Sections**
+- [ ] AMD 15h
+- [ ] AMD Threadripper
