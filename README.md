@@ -5,6 +5,10 @@ Great Made OpenCore Configs
 I have made opencore configs for each hardware following main opencore guide <br>
 However There's things pointed you'll need to add on your own such as ACPI. It will be documented
 
+## Current
+However there's still things not configured yet.
+Please be patient
+
 ## Configs
 **Laptops Section**
 > Intel CPUs
